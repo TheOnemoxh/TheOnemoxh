@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=TheOnemoxh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Flutter%20Enthusiast&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=TheOnemoxh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20DevOps%20Enthusiast&descAlignY=51&descAlign=62)
 
 ### 👋 Meet the Developer
 
